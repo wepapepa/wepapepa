@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wepapepa
-- 👀 I’m interested in coding my way through big ass companies and making old white men feel incompetent.
-- 🌱 I’m currently learning python, node.js and relearning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @laaabrin on any social media (:
+- 👀 I’m interested in coding my way through big companies and learning more about tech and its impact on society 
+- 🌱 I’m currently learning python, javascript and java
+- 💞️ I’m looking to collaborate on any music or design related project
+- 📫 You can reach out to me! I'm @laaabrin on any social media (:
 
 <!---
 wepapepa/wepapepa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
