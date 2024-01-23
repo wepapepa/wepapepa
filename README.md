@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wepapepa
-- 👀 I’m interested in coding my way through big companies and learning more about tech and its impact on society 
-- 🌱 I’m currently learning python, javascript and java
-- 💞️ I’m looking to collaborate on any music or design related project
+- 👀 I’m interested in fun and innovative projects 
+- 🌱 I’m currently a full-stack development student at Coderhouse
 - 📫 You can reach out to me! I'm @laaabrin on any social media (:
 
 <!---
