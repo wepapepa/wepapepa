@@ -13,7 +13,7 @@
 
 - 📝 I regularly post about my journey on [https://www.instagram.com/pepacontent.a/](https://www.instagram.com/pepacontent.a/)
 
-- 💬 Ask me about **my graphic-design-to-developer pipeline journey**
+- 💬 Ask me about **my graphic-designer-to-developer pipeline journey**
 
 - 📫 How to reach me **catu.leibrin@gmail.com**
 
