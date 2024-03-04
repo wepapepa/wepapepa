@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **fun coding projects**
 
-- 👨‍💻 All of my projects are available at [wepapepa.myportfolio.com](wepapepa.myportfolio.com)
+- 👨‍💻 All of my projects are available at [wepapepa.myportfolio.com](https://wepapepa.myportfolio.com)
 
 - 📝 I regularly post about my journey on [https://www.instagram.com/wepacoding](https://www.instagram.com/wepacoding)
 
