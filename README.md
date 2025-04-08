@@ -3,21 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wepapepa&label=Profile%20views&color=0e75b6&style=flat" alt="wepapepa" /> </p>
 
-- 🔭 I’m currently working on **my portfolio for UXUI design**
-
 - 🌱 I’m currently learning **react.js, vue, python**
 
 - 👯 I’m looking to collaborate on **fun coding projects**
 
 - 👨‍💻 All of my projects are available at [wepapepa.myportfolio.com](https://wepapepa.myportfolio.com)
 
-- 📝 I regularly post about my journey on [https://www.instagram.com/wepacoding](https://www.instagram.com/wepacoding)
+- 💬 Ask me about **my graphic-designer-to-developer journey**
 
-- 💬 Ask me about **my graphic-designer-to-developer pipeline journey**
+- 📫 How to reach me **pepalabrin@gmail.com**
 
-- 📫 How to reach me **catu.leibrin@gmail.com**
-
-- ⚡ Fun fact **I started coding because I wanted to make my sister's tumblr page more fun**
+- ⚡ Fun fact! **I started coding because I wanted to make my sister's tumblr page more fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
